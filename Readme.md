@@ -12,8 +12,6 @@
              <p>lớp: CD-CNTT15B<P>
              
              <p>Năm sinh: 2000<P>
-             
-             <p>link github: https://github.com/NguyenThanhTung3010</p>
 
       </body>
 </html>
